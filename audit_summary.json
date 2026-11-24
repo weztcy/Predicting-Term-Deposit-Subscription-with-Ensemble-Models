@@ -1,0 +1,38 @@
+{
+  "num_rows": 45211,
+  "num_columns": 17,
+  "duplicate_rows": 0,
+  "target_distribution": {
+    "no": 39922,
+    "yes": 5289
+  },
+  "target_proportions": {
+    "no": 0.8830151954170445,
+    "yes": 0.11698480458295547
+  },
+  "missing_columns": {
+    "job": {
+      "count": 288,
+      "pct": 0.6370131162770122
+    },
+    "education": {
+      "count": 1857,
+      "pct": 4.1074074893278185
+    },
+    "contact": {
+      "count": 13020,
+      "pct": 28.798301298356595
+    },
+    "poutcome": {
+      "count": 36959,
+      "pct": 81.74780473778506
+    }
+  },
+  "day_column": "day_of_week",
+  "pdays_neg1_count": 36954,
+  "pdays_neg1_pct": 81.73674548229414,
+  "temporal_train_rows": 36168,
+  "temporal_test_rows": 9043,
+  "temporal_train_yes_pct": 6.726940942269409,
+  "temporal_test_yes_pct": 31.582439455932764
+}
